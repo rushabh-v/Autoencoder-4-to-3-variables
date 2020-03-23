@@ -1,4 +1,4 @@
-### Autoencoder-to compress 4 variables into 3!!!
+### Autoencoder-To compress 4 variables into 3!!!
 ![Autoencoder](/imgs/Autoencoder.jpeg)
 
 The presentation for this project can be found [here](https://docs.google.com/presentation/d/1fmdpi0x3zCWyJqMD0G5bOToJ3lpEUaBfRiVmZHHr7X8/edit?usp=sharing).
